@@ -78,7 +78,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ksy00826&show_icons=true">
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<h3>🏆 Baekjoon solved rank 🏆</h3>
+<br>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsy0424)](https://solved.ac/kimsy0424)
 </div>
