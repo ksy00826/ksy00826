@@ -69,6 +69,9 @@
 	</a>
 	<br>
 </div>
+
+---
+
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksy00826&layout=compact">
