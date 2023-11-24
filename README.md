@@ -58,9 +58,6 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://wistful-crop-f68.notion.site/b7c1fa400aca47f7820ef8b5e21dfe3b?pvs=4">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
 	<a href="https://rue-mi.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
