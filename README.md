@@ -70,10 +70,6 @@
 ---
 
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksy00826&layout=compact">
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ksy00826&show_icons=true">
 
 <br>
 <h3>🏆 Baekjoon solved rank 🏆</h3>
