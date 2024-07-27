@@ -76,8 +76,5 @@
 <br>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsy0424)](https://solved.ac/kimsy0424)
-<img src="http://mazandi.herokuapp.com/api?handle=kimsy0424&theme=warm"/>
-</div>
-<br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
